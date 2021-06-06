@@ -44,3 +44,8 @@
    configuration? What other changes are required in each setup scenario?
 3. Having not looked at the ViewComponents library yet, how will it factor into
    all the above?
+
+## Updates
+1. DriftingRuby indicates that if webpacker is being used, the
+   `stimulus_include_tags` addition to the application layout may be omitted
+   (see https://youtu.be/77GvSdc2Pf8?t=389)
